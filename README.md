@@ -1,2 +1,2 @@
 # reu-test
-A test repository
+A test __repository__
